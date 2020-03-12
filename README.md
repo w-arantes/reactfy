@@ -2,10 +2,10 @@
 Pipefy Kanban UI clone using ReactJS &amp;  React DnD lib
 <h1 align="center">
 <br>
-  <img src="src/assets/images/reactfy_logo.png" alt="" width="90">
+  <img src="src/assets/images/reactfy_logo.png" alt="" width="120" width="120">
 <br>
 <br>
-GoBarber
+Reactfy
 </h1>
 
 <p align="center">Reactfy - Pipefy UI clone using ⚛React </p>
@@ -36,8 +36,8 @@ Libraries featured in this project.
 
 ## Getting started
 
-1. Clone this repo using `https://github.com/w-arantes/reactfy-web.git`
-2. Move to the appropriate directory: `cd reactfy-web`.<br />
+1. Clone this repo using `https://github.com/w-arantes/reactfy.git`
+2. Move to the appropriate directory: `cd reactfy`.<br />
 3. Run `yarn` to install dependencies.<br />
 4. Run `yarn start` to see the example app at `http://localhost:3000`.
 
