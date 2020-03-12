@@ -1,12 +1,9 @@
-# reactfy-web
-Pipefy Kanban UI clone using ReactJS &amp;  React DnD lib
+
 <h1 align="center">
 <br>
-  <img src="src/assets/images/reactfy_logo.png" alt="" width="120" width="120">
+  <img src="src/assets/images/reactfy_logo.png" alt="" width="200" width="200">
 <br>
 <br>
-Reactfy
-</h1>
 
 <p align="center">Reactfy - Pipefy UI clone using ⚛React </p>
 
@@ -32,6 +29,9 @@ Libraries featured in this project.
 
 - [**React DnD**](https://expressjs.com/pt-br/) — Drag and Drop for React.
 - [**Immer**](https://react-dnd.github.io/react-dnd/about) — package that allows you to work with immutable state in a more convenient way based on the copy-on-write mechanism.
+
+## Demo on  Heroku
+<a href="https://reactfy-web.herokuapp.com/" target="_blank">
 
 
 ## Getting started
