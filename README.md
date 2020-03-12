@@ -31,7 +31,8 @@ Libraries featured in this project.
 - [**Immer**](https://react-dnd.github.io/react-dnd/about) — package that allows you to work with immutable state in a more convenient way based on the copy-on-write mechanism.
 
 ## Demo on  Heroku
-<a href="https://reactfy-web.herokuapp.com/" target="_blank">
+
+[**Demo**](https://reactfy-web.herokuapp.com/)>
 
 
 ## Getting started
