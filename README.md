@@ -5,7 +5,9 @@
 <br>
 <br>
 
-<p align="center">Reactfy - Pipefy UI clone using ⚛React </p>
+<p align="center">Reactfy - Pipefy UI clone using React </p>
+
+![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1584329495/Screenshot_from_2020-03-16_00-31-19_etoqj0.png)
 
 
 <p align="center">
@@ -32,7 +34,7 @@ Libraries featured in this project.
 
 ## Demo on  Heroku
 
-[**Demo**](https://reactfy-web.herokuapp.com/)>
+[**Demo link**](https://reactfy-web.herokuapp.com/)
 
 
 ## Getting started
